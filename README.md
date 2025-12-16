@@ -121,15 +121,19 @@ This project is currently unlicensed. Please contact the repository owner for us
 ## 👤 Author
 
 **Aikaterini Eirini Sfakianou**
-- GitHub: [@katsfak](https://github.com/katsfak)
+[@katsfak](https://github.com/katsfak)
+
 **Marinos Fragkos**
-- GitHub: [@Marinosfragkos](https://github.com/Marinosfragkos)
+  [@Marinosfragkos](https://github.com/Marinosfragkos)
+  
 **Konstantina Varsami**
-- GitHub: [@konnav](https://github.com/konnav)
+[@konnav](https://github.com/konnav)
+
 **Spyridon Vlachos**
-- GitHub: [@SpyrosKVlachos](https://github.com/SpyrosKVlachos)
+[@SpyrosKVlachos](https://github.com/SpyrosKVlachos)
+
 **Maria Papadopoulou**
-- GitHub: [@Maria-papadopoulou](https://github.com/Maria-papadopoulou)
+[@Maria-papadopoulou](https://github.com/Maria-papadopoulou)
 
 ## 🐛 Bug Reports
 
